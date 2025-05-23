@@ -21,7 +21,7 @@ Key Goals:
 
 Outcome:
 
-A dynamic dashboard (built using Power BI) with filterable views and performance KPIs, supported by Python, SQL, Excel, and Tableau for data prep, analysis, and visualization.
+A dynamic dashboard (built using Power BI) with filterable views and performance KPIs, supported by  SQL, Excel, and for data prep, analysis, and visualization.
 
 Tools & Technologies Used:
 
